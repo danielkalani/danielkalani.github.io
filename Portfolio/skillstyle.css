@@ -40,12 +40,9 @@ h2{
     overflow: hidden;
 }
 
-#languages{
-    float: left;
-}
-
-#box{
-    float:right;
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 * {box-sizing:border-box}
@@ -59,12 +56,12 @@ h2{
   text-align: right; 
   padding-top: 0px; 
   padding-bottom: 0px;
-  color: rgb(3, 3, 3);
+  color: rgb(255, 255, 255);
 }
 
-.html {width: 90%; background-color:white;}
-.css {width: 80%; background-color: white;}
-.js {width: 65%; background-color: white;} 
-.php {width: 60%; background-color: white;} 
-.java {width: 30%; background-color: white;} 
-.flutter {width: 30%; background-color: white;} 
+.html {width: 90%; background-color:black;}
+.css {width: 80%; background-color: black;}
+.js {width: 65%; background-color: gray;} 
+.php {width: 60%; background-color: gray;} 
+.java {width: 30%; background-color: red;} 
+.flutter {width: 30%; background-color: red;} 
